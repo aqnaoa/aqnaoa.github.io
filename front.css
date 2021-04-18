@@ -1,6 +1,5 @@
-html{width:100%;font-size:16px;}
-body{width:100%;color:#3f3f3f;line-height:1.5em;letter-spacing:0.8pt;text-align:center;background:＃F4F5F7;}
-header,article,footer{overflow:hidden;}
+html{font-size:16px;}
+body{color:#3f3f3f;line-height:1.5em;letter-spacing:0.8pt;text-align:center;background:＃F4F5F7;}
 p{margin:1rem 0 0 0;}
 p:first-of-type{margin:2rem 0 0 0;}
 h1,h2,h3{letter-spacing:0pt;margin:
@@ -22,6 +21,10 @@ a:visited{color:#551A8B;}
 body{padding:0 2rem;text-align:left;}
 img{width:100%;max-width:100%;}
 }
+
+
+
+
 
 
 
