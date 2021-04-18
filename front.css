@@ -20,7 +20,10 @@ a:visited{color:#551A8B;}
 @media screen and (max-width:499px) {
 /* 499pxまでの幅の場合に適応 */
 body{padding:0 2rem;text-align:left;}
+img{width:100%;max-width:100%;}
 }
+
+
 
 
 
