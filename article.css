@@ -1,0 +1,23 @@
+h1 {
+	font-size: 1.5rem;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+h3 {
+	font-size: 2rem;
+}
+
+hr {
+	margin: 2rem auto;
+}
+
+h1 a {
+	text-decoration: none;
+	color: var(--nc-tx-2);
+}
+h1 a:hover {
+	color: var(--nc-tx-2);
+}
